@@ -1,6 +1,6 @@
 {
   "name": "@dhaibuna/holidaydates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,6 @@
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "country-list": "^2.2.0"
-    
   },
   "bin": {
     "holidaydates": "./index.js"
