@@ -20,5 +20,9 @@
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "country-list": "^2.2.0"
+    
+  },
+  "bin": {
+    "holidayDates": "./index.js"
   }
 }
