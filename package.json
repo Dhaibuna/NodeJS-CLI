@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhaibuna/NodeJS-CLI.git"
+  },
+  "author": "Nana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhaibuna/NodeJS-CLI/issues"
+  },
+  "homepage": "https://github.com/Dhaibuna/NodeJS-CLI#readme",
+  "dependencies": {
+    "country-list": "^2.2.0"
+  }
+}
